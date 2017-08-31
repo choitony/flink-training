@@ -1,6 +1,0 @@
-corp/choi/WordCount.class
-corp/choi/WordCount$LineSplitter.class
-corp/choi/BatchJob.class
-corp/choi/StreamingJob.class
-corp/choi/SocketTextStreamWordCount.class
-corp/choi/SocketTextStreamWordCount$LineSplitter.class
